@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1694
     wikipedia: http://en.wikipedia.org/wiki/Leonard_Huxley_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15429#Thomas-Henry-Huxley--A-Character-Sketch
 gutenberg_issued: '2005-03-21'
 gutenberg_type: Text
 identifiers:
